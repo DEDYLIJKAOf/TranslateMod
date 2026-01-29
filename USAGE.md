@@ -9,6 +9,13 @@
 py -m pip install -r E:\ModTranslate\requirements.txt
 ```
 
+### 1.1. GUI (окно)
+Запусти:
+```
+py E:\ModTranslate\gui.py
+```
+или двойным кликом по `gui.bat`.
+
 ### 2. Перевод мода из .jar
 1. Убедись, что мод лежит в `mods` или укажи полный путь к файлу.
 2. Запусти перевод:
